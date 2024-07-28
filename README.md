@@ -1,1 +1,2 @@
 # Earthquake_Prediction
+Earthquakes are natural disasters that can cause significant damage and loss of life. Accurate prediction of earthquakes is essential for developing early warning systems, disaster planning, risk assessment, and scientific research. This project aims to predict the magnitude, time and the location of Earthquake occurring in a South Asian region which majorly includes all the parts of India from the historic data of that region using various Machine learning and Deep Learning models.
